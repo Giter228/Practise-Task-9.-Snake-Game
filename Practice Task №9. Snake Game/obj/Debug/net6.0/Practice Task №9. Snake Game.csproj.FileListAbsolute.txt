@@ -1,0 +1,15 @@
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\bin\Debug\net6.0\Practice Task №9. Snake Game.exe
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\bin\Debug\net6.0\Practice Task №9. Snake Game.deps.json
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\bin\Debug\net6.0\Practice Task №9. Snake Game.runtimeconfig.json
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\bin\Debug\net6.0\Practice Task №9. Snake Game.dll
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\bin\Debug\net6.0\Practice Task №9. Snake Game.pdb
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.dll
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\refint\Practice Task №9. Snake Game.dll
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.pdb
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\Practice Task №9. Snake Game.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Practice Task №9. Snake Game\Practice Task №9. Snake Game\obj\Debug\net6.0\ref\Practice Task №9. Snake Game.dll
